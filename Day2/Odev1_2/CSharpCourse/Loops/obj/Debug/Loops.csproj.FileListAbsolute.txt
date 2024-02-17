@@ -1,0 +1,7 @@
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\bin\Debug\Loops.exe.config
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\bin\Debug\Loops.exe
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\bin\Debug\Loops.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\obj\Debug\Loops.exe
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\obj\Debug\Loops.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache

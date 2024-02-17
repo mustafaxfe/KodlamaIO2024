@@ -1,0 +1,7 @@
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

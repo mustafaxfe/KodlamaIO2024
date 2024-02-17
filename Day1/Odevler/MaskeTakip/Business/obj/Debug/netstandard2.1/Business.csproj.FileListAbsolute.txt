@@ -1,0 +1,36 @@
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Users\musta\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Users\musta\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Users\musta\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\musta\source\repos\MaskeTakip\Business\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Users\musta\source\repos\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.deps.json
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.dll
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\bin\Debug\netstandard2.1\Entities.dll
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\bin\Debug\netstandard2.1\Entities.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.dll
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_but_ready\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.deps.json
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.dll
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\bin\Debug\netstandard2.1\Business.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\bin\Debug\netstandard2.1\Entities.dll
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\bin\Debug\netstandard2.1\Entities.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.AssemblyReference.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.dll
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Day1\Odevler\Working_and_ready_project\MaskeTakip\Business\obj\Debug\netstandard2.1\Business.pdb

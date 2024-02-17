@@ -1,0 +1,7 @@
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\bin\Debug\Arrays.exe
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\bin\Debug\Arrays.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\obj\Debug\Arrays.exe
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\obj\Debug\Arrays.pdb
+E:\Programming Tasks\Kodlama.io\2024 C# Camp\Week2\Odev1_1\CSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache

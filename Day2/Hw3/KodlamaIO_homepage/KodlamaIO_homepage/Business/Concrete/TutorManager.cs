@@ -10,11 +10,14 @@ using System.Threading.Tasks;
 
 namespace KodlamaIO_homepage.Business.Concrete;
 
-public class TutorManager(TutorDal tutorDal) : ITutorService
+public class TutorManager : ITutorService
 {
     public readonly ITutorDal _tutorDal;
-    private TutorDal tutorDal = tutorDal;
-
+    //private TutorDal tutorDal = tutorDal;
+    public TutorManager(ITutorDal tutorDal)
+    {
+        _tutorDal = tutorDal;
+    }
     public void Add(Tutor tutor)
     {
         _tutorDal.Add(tutor);
@@ -28,7 +31,10 @@ public class TutorManager(TutorDal tutorDal) : ITutorService
     public void DeleteAll()
     {
     }
-
+    public List<Tutor> GetAll()
+    {
+        return _tutorDal.GetAll();
+    }
     public Tutor GetById(int id)
     {
         return _tutorDal.GetById(id);

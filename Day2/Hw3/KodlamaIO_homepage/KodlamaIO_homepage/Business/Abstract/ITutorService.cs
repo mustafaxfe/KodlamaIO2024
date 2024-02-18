@@ -13,5 +13,5 @@ public interface ITutorService
     void Add(Tutor tutor);
     void Delete(Tutor tutor);
     void Update(Tutor tutor);
-    void DeleteAll();
-}
+    List<Tutor> GetAll();
+ }

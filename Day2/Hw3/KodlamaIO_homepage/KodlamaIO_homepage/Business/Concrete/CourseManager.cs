@@ -31,8 +31,8 @@ public class CourseManager : ICourseService
         return _courseDal.GetAll();
     }
 
-    public Course GetById(int id)
-    {
-        return _courseDal.GetById(id);
-    }
+    //public Course GetById(int id)
+    //{
+    //    return _courseDal.GetById(id);
+    //}
 }

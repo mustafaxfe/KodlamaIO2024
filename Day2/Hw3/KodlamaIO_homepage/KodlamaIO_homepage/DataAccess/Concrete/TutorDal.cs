@@ -18,7 +18,8 @@ public class TutorDal : ITutorDal
 
     public void Delete(Tutor tutor)
     {
-        throw new NotImplementedException();
+        tutors.Remove(tutor);
+
     }
 
     public List<Tutor> GetAll()

@@ -17,7 +17,7 @@ public class CategoryDal : ICategoryDal
 
     public void Add(Category category)
     {
-        throw new NotImplementedException();
+        _categories.Add(category);
     }
 
     public void Delete(Category category)

@@ -11,7 +11,7 @@ public interface ICourseService
 {
     void Add(Course course);
     void Delete(Course course);
-    Course GetById(int id);
+    //Course GetById(int id);
     List<Course> GetAll();
 
 }

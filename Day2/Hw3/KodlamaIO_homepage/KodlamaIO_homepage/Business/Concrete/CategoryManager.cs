@@ -12,12 +12,12 @@ namespace KodlamaIO_homepage.Business.Concrete;
 
 public class CategoryManager : ICategoryService
 {
-    public ICategoryDal? _categoryDal;
-    private CategoryDal categoryDal;
+    private readonly ICategoryDal _categoryDal;
+
 
     public CategoryManager(CategoryDal categoryDal)
     {
-        this.categoryDal = categoryDal;
+        this._categoryDal = categoryDal;
     }
 
     public void Add(Category category)

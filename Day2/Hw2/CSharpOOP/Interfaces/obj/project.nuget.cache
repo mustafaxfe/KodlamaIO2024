@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1IERvceaJRSh75YaR4mE4FeuM4sJY+GAB8awjrJHbeCEpnaHZNkUMJF8Ub8uOvApnBrhoe3rge6dzrU6ZbABRg==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Tasks\\2024 C# Camp\\Day2\\Hw2\\ReferenceTypes\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

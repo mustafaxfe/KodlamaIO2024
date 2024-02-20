@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73BXSqD3zbTtd7HPQTuSq903WhwsUxRYRy4nl3RZSMONx9nloZqt27DYdUO1ZnVhfN3n+uzUJwHHYUhX29vm9w==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Tasks\\2024 C# Camp\\Day2\\Hw4\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
